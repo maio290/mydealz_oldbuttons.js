@@ -3,8 +3,10 @@
 // @namespace   myDealz
 // @include    http://www.mydealz.de/*
 // @include    https://www.mydealz.de/*
+// @exclude    https://www.mydealz.de/profile/*
+// @excluse    http://www.mydealz.de/profile/*
 // @author     Mario-Luca Hoffmann
-// @version     1.0
+// @version     1.1
 // @description  Gives you the old buttons
 // @grant       none
 
