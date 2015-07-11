@@ -4,7 +4,7 @@
 // @include    http://www.mydealz.de/*
 // @include    https://www.mydealz.de/*
 // @exclude    https://www.mydealz.de/profile/*
-// @excluse    http://www.mydealz.de/profile/*
+// @exclude    http://www.mydealz.de/profile/*
 // @author     Mario-Luca Hoffmann
 // @version     1.1
 // @description  Gives you the old buttons
